@@ -21,13 +21,16 @@ PostgreSQL
 
 ## Projects
 
-CinemaR – Movie ticket booking web app  
+CinemaR 
+Movie ticket booking web app  
 https://cinemor.netlify.app  
 
-Joyful Campus – E-learning platform  
+Joyful Campus 
+E-learning platform  
 https://joyfulcampus.com  
 
-AutoOR – Car rental web application  
+AutoOR
+Car rental web application  
 https://autoor-demo.netlify.app  
 
 ---
