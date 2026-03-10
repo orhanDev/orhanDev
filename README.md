@@ -8,7 +8,7 @@ Full-Stack Java Developer focused on building modern web applications with **Rea
 
 ## Tech Stack
 
-Frontend  
+Frontend 
 React • JavaScript • HTML • CSS
 
 Backend  
@@ -21,15 +21,15 @@ PostgreSQL
 
 ## Projects
 
-CinemaR 
+CinemaR  
 Movie ticket booking web app  
 https://cinemor.netlify.app  
 
-Joyful Campus 
+Joyful Campus  
 E-learning platform  
 https://joyfulcampus.com  
 
-AutoOR
+AutoOR  
 Car rental web application  
 https://autoor-demo.netlify.app  
 
