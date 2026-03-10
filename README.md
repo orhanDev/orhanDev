@@ -1,4 +1,4 @@
-![Banner](profilbanner.png)
+![Banner](profilbannerim.png)
 
 # Hello, I'm Orhan Yilmaz 👋
 
