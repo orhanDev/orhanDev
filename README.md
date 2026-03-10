@@ -8,18 +8,18 @@ Full-Stack Java Developer focused on building modern web applications with **Rea
 
 ## Tech Stack
 
-Frontend 
+Frontend  
 React • JavaScript • HTML • CSS
 
-Backend  
+Backend   
 Java • Spring Boot • REST API
 
-Database  
+Database   
 PostgreSQL
 
 ---
 
-## Projects
+## Projects  
 
 CinemaR  
 Movie ticket booking web app  
