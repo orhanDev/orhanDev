@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hello, I'm Orhan Yilmaz 👋
 
-<!--
-**orhanDev/orhanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Java Developer focused on building modern web applications with **React** and **Java (Spring Boot)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+Frontend  
+React • JavaScript • HTML • CSS
+
+Backend  
+Java • Spring Boot • REST API
+
+Database  
+PostgreSQL
+
+---
+
+## Projects
+
+CinemaR – Movie ticket booking web app  
+https://cinemor.netlify.app  
+
+Joyful Campus – E-learning platform  
+https://joyfulcampus.com  
+
+AutoOR – Car rental web application  
+https://autoor-demo.netlify.app  
+
+---
+
+## Contact
+
+Email: orhancodes@gmail.com  
+LinkedIn: https://linkedin.com/in/orhan-yilmaz-codes
